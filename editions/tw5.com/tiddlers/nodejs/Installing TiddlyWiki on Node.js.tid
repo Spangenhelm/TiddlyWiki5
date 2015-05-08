@@ -1,5 +1,5 @@
 created: 20131219100608529
-modified: 20150508102437743
+modified: 20150508104206325
 tags: [[TiddlyWiki on Node.js]]
 title: Installing TiddlyWiki on Node.js
 type: text/vnd.tiddlywiki
@@ -17,7 +17,7 @@ type: text/vnd.tiddlywiki
 #> `cd /path/to/your_working_directory` 
 #> `mkdir YourFolder`
 #* You can also use your file explorer to create the folder.<br /><br />
-# Initialise an empty WikiFolder with a copy of the specified edition.
+# Initialise an empty TiddlyWikiFolders with a copy of the specified edition.
 #> `tiddlywiki YourFolder --init VersionToUse`
 #> To find help on this command: `tiddlywiki --help init`
 #> Replace the `VersionToUse` by one of the edition provided here:<br />`tiddlywiki --editions`

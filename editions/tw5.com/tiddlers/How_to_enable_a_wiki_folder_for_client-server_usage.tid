@@ -1,5 +1,5 @@
 created: 20150508053852097
-modified: 20150508070542725
+modified: 20150508104508841
 tags: [[TiddlyWiki on Node.js]]
 title: How to enable a wiki folder for client-server usage
 type: text/vnd.tiddlywiki
@@ -15,4 +15,4 @@ type: text/vnd.tiddlywiki
 #>And / or
 #> Check for scrolling text in the opened terminal, under: <br />`Serving on 127.0.0.1:8080 (press ctrl-C to exit)`
 
-@@color: orange; ⚠@@ Annoyingly, the plugin library can't be used to install these components under Node.js; one has to edit the tiddlywiki.info file.
+@@color: orange; ⚠@@ Annoyingly, the plugin library can't be used to install these components under [[Node.js]], one has to edit the `tiddlywiki.info` file.
